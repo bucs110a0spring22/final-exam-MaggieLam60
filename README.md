@@ -13,15 +13,24 @@ Please make sure you have completed the soot survey at:
 
 Please list the urls for the APIs you used:
 
-Summary of Program:
+[OpenWeatherAPI](https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=)
 
-Most Challenging topic in the course:
+[Newsdata](https://newsdata.io/docs)
+
+
+##### Summary of Program
+
+The program is gives all the information necessary for a morning. It gives the weather forecast and the current news for the day.
+
+##### Most Challenging topic in the course
+
+The most challenging topic in this course was probably learning looping and while statements. It took me a while to get the hang of how to do it
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
- < List any outside resources used >
+ < the API documentation >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < none >
